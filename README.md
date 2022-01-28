@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ramank-r
-- 👀 I’m interested in Truth and Spirituality
 - 🌱 I’m currently learning Python
 - 📫 How to reach me? email me  ramank27@yahoo.com
 <!---
